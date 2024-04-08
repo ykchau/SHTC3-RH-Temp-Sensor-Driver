@@ -1,3 +1,12 @@
+/*
+	Project  : SHTC3
+ 	file     : SHTC3.ino
+	Author   : ykchau
+ 	youtube  : youtube.com/ykchau888
+  	Licenese : GPL-3.0
+   	Please let me know if you use it commercial project.
+*/
+
 #include "SHTC3.h"
 #define DELAY 2000
 
