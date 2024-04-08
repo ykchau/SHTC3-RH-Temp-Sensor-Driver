@@ -1,5 +1,5 @@
 /*
-	Project  : SHTC3
+	Project  : LaLiMat project (https://www.youtube.com/playlist?list=PLJBKmE2nNweRXOebZjydkMEiq2pHtBMOS in Chinese)
  	file     : SHTC3.ino
 	Author   : ykchau
  	youtube  : youtube.com/ykchau888
